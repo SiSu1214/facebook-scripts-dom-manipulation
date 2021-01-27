@@ -6,6 +6,18 @@
 */
 // You can change the delay time or not (in milliseconds, 1 s = 1000 ms)
 // REMEMBER: the longer the delay time you set, the bigger your chance of not getting Facebook Checkpoint
+
+/***************************************************************************** */
+/*
+* Tác giả (author)
+* Yêu cầu: Facebook (cũ/mới)
+* Hãy sao chép toàn bộ mã bên dưới để tránh lỗi ngoài ý muốn nhé.
+* Đảm bảo sử dụng đúng phiên bản phù hợp với phiên bản Facebook của bạn
+Bạn có thể thay đổi thời gian chờ giữa hai hành động (đơn bị mili giây, 1s=1000ms)
+Thời gian chờ càng lâu, khả năng Facebook bón checkpoint cho bạn càng ít
+*/
+
+/****************************************************************************** */
 let timePerAction = 1000;
 let timeToLoadPage = 3000;
 

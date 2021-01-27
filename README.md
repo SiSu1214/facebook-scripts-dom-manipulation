@@ -29,6 +29,12 @@ This project needs to be expanded to improve its efficiency and increase the num
 
 Really happy to accept and review pull requests for new functionality.
 
+Please  take a look over  **example.js** for basic step to create a script.
+
+Please give detailed intruction or requirements at the begin of code. (See **example.js**)
+
+Please give detailed description about changes.
+
 ## Checkpoint Issues
 
 While using these scripts, sometimes your Facebook account may get Checkpoint due to rapid actions.
@@ -60,7 +66,14 @@ Sao chép và dán mã cần thực thi vào mục [DevTools Console](https://de
 
 Và các [contributors](https://github.com/JayremntB/facebook-scripts-DOM-manipulation/contributors) đã tham gia vào dự án này.
 
-> **Chúng tôi luôn chào đón những đóng góp mới, dù là nhỏ nhất.**
+## Muốn đóng góp?
+> **Chúng tôi luôn chào đón những đóng góp mới, kể cả nhỏ nhất.**
+
+Vui lòng xem qua tệp **example.js** để biết thêm về cách viết một script mới.
+
+Nếu có yêu cầu đặc biệt để chạy mã thì hãy ghi chú ở phần đầu như trong tệp **example.js** nha.
+
+Hãy ghi chú rõ về những thay đổi để mọi người cùng theo dõi nhé.
 
 ## Gặp Checkpoint?
 
